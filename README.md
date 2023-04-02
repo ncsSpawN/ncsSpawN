@@ -1,0 +1,72 @@
+<div id="logo" align="center">
+  <a href="https://l2code.ru/">
+    <img src="https://forum.l2code.ru/uploads/monthly_2022_11/cat-mini2.png.057199d582ff5499186cbd7db9e3d3a3.png" alt="L2Code" width="200" />
+  </a>
+</div>
+<div id="header" align="center">
+    <h1>Hi there, I'm Yuliy </h1>
+    <h3>Full Stack Developer from Kyiv</h3>
+</div>
+
+<div id="socials" align="center">
+  <a href="https://l2code.t.me/">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</div>
+
+### About me
+
+- From 2015 to the present, development of the MMO-RPG Java-emulator of the Lineage2 Interlude game server.
+- Website: [https://l2code.ru/](https://l2code.ru/)
+
+---
+
+### Education
+
+- Educational institution: Kyiv National Aviation University
+- Study period: 1 September 2010 - 26 June 2015 (4 years 10 months)
+- Academic degree: Master
+- Level of education: complete higher
+- Specialty: Security of information and communication systems and networks.
+
+---
+
+### Languages:
+
+<img src="https://l2code.ru/svg/languages/java_original_wordmark_logo_icon_146459.svg" title="Java" width="40" height="40"/>&nbsp;
+<img src="https://l2code.ru/svg/languages/c-plus-plus.png" title="C++" width="40" height="40"/>&nbsp;
+<img src="https://l2code.ru/svg/languages/php_icon_130857.svg" title="PHP" width="40" height="40"/>&nbsp;
+<img src="https://l2code.ru/svg/languages/javascript_vertical_logo_icon_168606.svg" title="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://l2code.ru/svg/languages/HTML_29706.png" title="HTML" width="40" height="40"/>&nbsp;
+<img src="https://l2code.ru/svg/languages/python_vertical_logo_icon_168039.svg" title="Python" width="40" height="40"/>&nbsp;
+<img src="https://l2code.ru/svg/languages/file_type_delphi_icon_130648.svg" title="Delphi" width="40" height="40"/>&nbsp;
+<img src="https://l2code.ru/svg/languages/css_filetype_icon_177544.svg" title="CSS" width="40" height="40"/>&nbsp;
+<img src="https://l2code.ru/svg/languages/xml_filetype_icon_177509.svg" title="XML" width="40" height="40"/>&nbsp;
+<img src="https://l2code.ru/svg/languages/json_filetype_icon_177531.svg" title="Json" width="40" height="40"/>&nbsp;
+<img src="https://l2code.ru/svg/languages/icon_sql_256_30046.png" title="SQL" width="40" height="40"/>&nbsp;
+
+---
+
+### Tools:
+
+<img src="https://l2code.ru/svg/tools/microsoft_visual_studio_code_alt_macos_bigsur_icon_189955.png" title="Microsoft Visual Studio" width="40" height="40"/>&nbsp;
+<img src="https://l2code.ru/svg/tools/Photoshop_icon-icons.com_54938.png" title="Adobe Photoshop" width="40" height="40"/>&nbsp;
+<img src="https://l2code.ru/svg/tools/intellij_macos_bigsur_icon_190061.png" title="IntelliJ IDEA" width="40" height="40"/>&nbsp;
+<img src="https://l2code.ru/svg/tools/eclipse_10124.png" title="Eclipse" width="40" height="40"/>&nbsp;
+
+---
+
+### Contacts:
+
+  <div id="badges">
+    <a href="https://l2code.t.me/">
+      <img src="https://l2code.ru/svg/contacs/1486146469-telegram_79439.png" width="40" height="40" alt="Telegram" />
+    </a>
+  </div>
+
+---
+
+<div id="stat" align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ncsSpawN&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ncsSpawN&theme=github_dark" alt=""/>
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ncsSpawN&theme=github_dark" alt=""/>
+</div>
