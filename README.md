@@ -4,10 +4,7 @@
   </a>
 </div>
 
-
-
 # $$\text{Hi there, I'm Yuliy}$$
-
 ### $$\text{Full Stack Developer from Kyiv}$$
 
 <div id="socials" align="center">
@@ -15,8 +12,6 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
-
-
 
 ### About me
 
