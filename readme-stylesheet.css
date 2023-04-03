@@ -1166,3 +1166,7 @@ sub {
 #stat {
     text-align: center
 }
+
+.title {
+    display: none
+}
