@@ -1154,3 +1154,15 @@ sub {
 .author {
     display: none
 }
+
+#logo {
+    text-align: center
+}
+
+#socials {
+    text-align: center
+}
+
+#stat {
+    text-align: center
+}
