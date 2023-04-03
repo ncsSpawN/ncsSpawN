@@ -27,7 +27,7 @@ jobs:
 
       - name: "Convert MD to HTML"
         run: |
-          pandoc README.md -f markdown -t html -c readme-stylesheet.css -s -o output/${{github.actor}}-readme.html
+          pandoc README.md -f markdown -t html -M title:Resume -c readme-stylesheet.css -s -o output/${{github.actor}}-readme.html
 
       - name: "Convert HTML to PDF "
         run: "wkhtmltopdf --enable-local-file-access output/${{github.actor}}-readme.html output/${{github.actor}}-readme.pdf"
