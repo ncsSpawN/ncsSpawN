@@ -1170,3 +1170,15 @@ sub {
 .title {
     display: none
 }
+
+#text-h1 {
+    text-align: center
+}
+
+#text-h2 {
+    text-align: center
+}
+
+#text-h3 {
+    text-align: center
+}
