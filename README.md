@@ -1,17 +1,19 @@
 <div id="logo" align="center">
   <a href="https://l2code.ru/">
-    <img src="https://forum.l2code.ru/uploads/monthly_2022_11/cat-mini2.png.057199d582ff5499186cbd7db9e3d3a3.png" alt="L2Code" width="200" />
+    <img src="https://forum.l2code.ru/uploads/monthly_2022_11/cat-mini2.png.057199d582ff5499186cbd7db9e3d3a3.png" alt="L2Code" width="150" />
   </a>
 </div>
-<div id="header" align="center">
-    <h1>Hi there, I'm Yuliy </h1>
-    <h3>Full Stack Developer from Kyiv</h3>
-</div>
+
+# $$\text{Hi there, I'm Yuliy}$$
+### $$\text{Full Stack Developer from Kyiv}$$
 
 <div id="socials" align="center">
   <a href="https://l2code.t.me/">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
 </div>
+
+
 
 ### About me
 
