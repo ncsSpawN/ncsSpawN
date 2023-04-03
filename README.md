@@ -4,8 +4,12 @@
   </a>
 </div>
 
-# $$\text{Hi there, I'm Yuliy}$$
-### $$\text{Full Stack Developer from Kyiv}$$
+<h1 id="text-h1" align="center">
+	<span class="math display">Hi there, I’m Yuliy</span>
+</h1>
+<h3 id="text-h3" align="center">
+	<span class="math display">Full Stack Developer from Kyiv</span>
+</h3>
 
 <div id="socials" align="center">
   <a href="https://l2code.t.me/">
