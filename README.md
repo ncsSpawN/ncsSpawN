@@ -5,6 +5,7 @@
 </div>
 
 # $$\text{Hi there, I'm Yuliy}$$
+
 ### $$\text{Full Stack Developer from Kyiv}$$
 
 <div id="socials" align="center">
@@ -59,16 +60,16 @@
 
 ### Contacts:
 
-  <div id="badges">
-    <a href="https://l2code.t.me/">
-      <img src="https://l2code.ru/svg/contacs/1486146469-telegram_79439.png" width="40" height="40" alt="Telegram" />
-    </a>
-  </div>
+<a href="https://l2code.t.me/">
+  <img src="https://l2code.ru/svg/contacs/1486146469-telegram_79439.png" width="40" height="40" alt="Telegram" />
+</a>
 
 ---
 
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ncsSpawN&theme=github_dark" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ncsSpawN&theme=github_dark" alt=""/>
-     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ncsSpawN&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ncsSpawN&theme=github_dark" alt=""/>
 </div>
+
+---
