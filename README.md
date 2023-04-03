@@ -32,16 +32,16 @@
 
 ### Languages:
 
-<img src="https://l2code.ru/svg/languages/java_original_wordmark_logo_icon_146459.svg" title="Java" width="40" height="40"/>&nbsp;
+<img src="https://l2code.ru/svg/languages/java_original_wordmark_logo_icon_146459.png" title="Java" width="40" height="40"/>&nbsp;
 <img src="https://l2code.ru/svg/languages/c-plus-plus.png" title="C++" width="40" height="40"/>&nbsp;
-<img src="https://l2code.ru/svg/languages/php_icon_130857.svg" title="PHP" width="40" height="40"/>&nbsp;
-<img src="https://l2code.ru/svg/languages/javascript_vertical_logo_icon_168606.svg" title="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://l2code.ru/svg/languages/php_icon_130857.png" title="PHP" width="40" height="40"/>&nbsp;
+<img src="https://l2code.ru/svg/languages/javascript_vertical_logo_icon_168606.png" title="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://l2code.ru/svg/languages/HTML_29706.png" title="HTML" width="40" height="40"/>&nbsp;
-<img src="https://l2code.ru/svg/languages/python_vertical_logo_icon_168039.svg" title="Python" width="40" height="40"/>&nbsp;
-<img src="https://l2code.ru/svg/languages/file_type_delphi_icon_130648.svg" title="Delphi" width="40" height="40"/>&nbsp;
-<img src="https://l2code.ru/svg/languages/css_filetype_icon_177544.svg" title="CSS" width="40" height="40"/>&nbsp;
-<img src="https://l2code.ru/svg/languages/xml_filetype_icon_177509.svg" title="XML" width="40" height="40"/>&nbsp;
-<img src="https://l2code.ru/svg/languages/json_filetype_icon_177531.svg" title="Json" width="40" height="40"/>&nbsp;
+<img src="https://l2code.ru/svg/languages/python_vertical_logo_icon_168039.png" title="Python" width="40" height="40"/>&nbsp;
+<img src="https://l2code.ru/svg/languages/file_type_delphi_icon_130648.png" title="Delphi" width="40" height="40"/>&nbsp;
+<img src="https://l2code.ru/svg/languages/css_filetype_icon_177544.png" title="CSS" width="40" height="40"/>&nbsp;
+<img src="https://l2code.ru/svg/languages/xml_filetype_icon_177509.png" title="XML" width="40" height="40"/>&nbsp;
+<img src="https://l2code.ru/svg/languages/json_filetype_icon_177531.png" title="Json" width="40" height="40"/>&nbsp;
 <img src="https://l2code.ru/svg/languages/icon_sql_256_30046.png" title="SQL" width="40" height="40"/>&nbsp;
 
 ---
