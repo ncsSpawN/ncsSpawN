@@ -13,7 +13,7 @@
 
 <div id="socials" align="center">
   <a href="https://l2code.t.me/">
-    <img src="https://l2code.ru/svg/tele.svg" alt="Telegram"/>
+    <img src="https://l2code.ru/svg/tele.png" alt="Telegram"/>
   </a>
 </div>
 
