@@ -1,6 +1,6 @@
 <div id="logo" align="center">
   <a href="https://l2codes.com/">
-    <img src="https://forum.l2codes.com/uploads/monthly_2022_11/cat-mini2.png.057199d582ff5499186cbd7db9e3d3a3.png" alt="L2Codes" width="150" />
+    <img src="https://forum.l2codes.com/cat-mini.png" alt="L2Codes" width="150" />
   </a>
 </div>
 
