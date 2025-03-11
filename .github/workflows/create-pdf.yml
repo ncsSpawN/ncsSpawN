@@ -11,43 +11,45 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
       - name: Check out repository code
-        uses: actions/checkout@v3 # this checks out the repo in the ubuntu container
-      - name: "Create a folder called output"
+        uses: actions/checkout@v3
+
+      - name: Create a folder called output
         run: |
           mkdir output
           cp readme-stylesheet.css output/readme-stylesheet.css
           cp README.md output/${{ github.actor }}-README.md
-      # Downloading the binaries directly, because they are newer and work better, than the ones that come with Ubuntu latest.
-      - name: "Install pandoc and wkhtmltopdf"
+
+      - name: Install pandoc and wkhtmltopdf
         run: |
           wget https://github.com/jgm/pandoc/releases/download/3.0.1/pandoc-3.0.1-1-amd64.deb
           wget https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6.1-2/wkhtmltox_0.12.6.1-2.jammy_amd64.deb
           sudo apt install ./pandoc-3.0.1-1-amd64.deb
           sudo apt install ./wkhtmltox_0.12.6.1-2.jammy_amd64.deb
 
-      - name: "Convert MD to HTML"
+      - name: Convert MD to HTML
         run: |
           pandoc README.md -f markdown -t html -M title:Resume -c readme-stylesheet.css -s -o output/${{github.actor}}-readme.html
 
-      - name: "Convert HTML to PDF "
-        run: "wkhtmltopdf --enable-local-file-access output/${{github.actor}}-readme.html output/${{github.actor}}-readme.pdf"
-      # run: |
-      #     /usr/bin/pandoc -standalone --output=output/readme.pdf --css=readme-stylesheet.css --from=markdown --to=pdf --pdf-engine=/usr/bin/wkhtmltopdf README.md
+      - name: Convert HTML to PDF
+        run: |
+          wkhtmltopdf --enable-local-file-access output/${{github.actor}}-readme.html output/${{github.actor}}-readme.pdf
+
       - uses: actions/upload-artifact@master
-        with: # basically this will put README.md, readme.html, readme.pdf and readme-stylesheet.css in a zip file.
+        with:
           name: ${{ github.actor }}'s Resume
           path: output
-      # ####
+
       - name: Create Release
         id: create_release
         uses: actions/create-release@v1.0.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: ${{ github.ref }}
-          release_name: Release ${{ github.ref }}
+          tag_name: v${{ github.run_number }}
+          release_name: Release v${{ github.run_number }}
           draft: false
           prerelease: false
+
       - name: Upload Release Asset
         id: upload-release-asset
         uses: actions/upload-release-asset@v1.0.1
@@ -58,4 +60,3 @@ jobs:
           asset_path: ./output/${{github.actor}}-readme.pdf
           asset_name: ${{github.actor}}-readme.pdf
           asset_content_type: application/pdf
-
